@@ -1,3 +1,4 @@
+name: Issues
 on: [issues]
 jobs:
   output_issues:
